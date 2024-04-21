@@ -21,6 +21,8 @@ Building this project taught me a lot about Core-Java and OOP'S Concepts develop
 
 📢 I'd love to hear your thoughts!
 
+🤝 Contributions are welcome! Feel free to submit issues and pull requests.
+
 🔍 Looking forward to your feedback and support as I continue my journey in the world of development.
 
 😊 Happy coding!💻
