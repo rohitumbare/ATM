@@ -8,7 +8,7 @@ I am thrilled to announce the completion of my latest project - ATM! 🌟
 This is a simulation of a Basic ATM Machin that allows Users to Enter CardNo & PinNo. Also Users can View Balance, Deposite Amount, Withdraw Amount and View Ministatements also. This project provides an opportunity to explore fundamental concepts of Object-Oriented Programming.
 
 💡 Key Features:<br>
-✅ View Balance<br>
+✅ View Balance<br> 
 ✅ Deposite Amount<br>
 ✅ Withdraw Amount<br>
 ✅ View Ministatement<br>
